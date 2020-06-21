@@ -1,0 +1,17 @@
+.btn {
+    margin-right: 3.5px;
+    margin-top: 3.5px;
+}
+
+.desabilited {
+    text-decoration: line-through;
+    color: #ccc;
+}
+
+.tableAction {
+    width: 105px;
+}
+
+.table {
+    margin-top: 90px;
+}
